@@ -1,2 +1,2 @@
 # Python_Problem_Solving
-This repo contains local runs for python Problems
+This repository contains a collection of hard-level LeetCode problems solved locally in Python.
